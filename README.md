@@ -5,6 +5,4 @@
 3) K- Nearest neighbour
 4) Naive Bayes
 5) Decision Tree
-
-
-6)Support Vector Machine
+6) Support Vector Machine
